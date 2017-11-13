@@ -40,6 +40,7 @@
   
   <modules>
   		<module>healthcheck-monitor</module>
+  		<module>cert-utils</module>
   </modules>
 
 	<licenses>
